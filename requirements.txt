@@ -1,5 +1,0 @@
-Django
-djangorestframework
-python-dotenv
-openai
-djongo
